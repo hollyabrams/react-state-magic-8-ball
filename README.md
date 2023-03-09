@@ -1,4 +1,4 @@
-![Magic 8 Ball](/eightball/src/magic-eight-ball.png) 
+![Magic 8 Ball](/eightball/magic-eight-ball.png) 
 
 # Getting Started with Create React App
 
